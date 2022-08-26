@@ -17,6 +17,7 @@ Features:
 - Command line window with timestamps and lot of debug information
 
 To-do:
+- Locked crosspoints handling
 - Thorough testing
 - Bug checking
 - Making code neat and tidy
