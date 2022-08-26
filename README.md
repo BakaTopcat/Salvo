@@ -11,7 +11,7 @@ Features:
 - Max router size 256x256
 - Currently only square routers supported
 - Read from file, save to file
-- Automatic file names according to date and time
+- Automatic file name suggestion according to date and time
 - Router size and access address saved to file along with all the crosspoints
 - All the router crosspoints displayed in the textbox
 - Command line window with timestamps and lot of debug information
