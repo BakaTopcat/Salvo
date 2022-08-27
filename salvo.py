@@ -113,7 +113,7 @@ def router1_read():
     print("\n----- OUTROUTING O<I CLEAN (3 first rows removed, zero-based): -----")
     print(outrouting)
     
-    for i in range(40):
+    for i in range(router_size):
         splitted = outrouting[i].split(' ')
         router_state[int(splitted[0])] = int(splitted[1])
 
