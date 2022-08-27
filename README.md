@@ -9,7 +9,6 @@ Features:
 - GUI interface (tkinter)
 - Dynamic router size, read either from file or from router, no need to enter it manually
 - Max router size 256x256
-- Currently only square routers supported
 - Read from file, save to file
 - Automatic file name suggestion according to date and time
 - Router size and access address saved to file along with all the crosspoints
