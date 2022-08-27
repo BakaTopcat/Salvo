@@ -1,6 +1,8 @@
 # Salvo
 Python script which reads and writes the Blackmagic Videohub state and saves it to file.
 
+![Screenshot](https://raw.githubusercontent.com/BakaTopcat/Salvo/main/salvo1.png)
+
 This script is very raw and untested, I'd suggest not using it in production.
 
 Any commits/comments/tests/bugreports/discussions appreciated [here](https://github.com/BakaTopcat/Salvo/discussions)
